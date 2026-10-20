@@ -9,7 +9,7 @@ calorie_chart={
 #            "kiwifruit":90,
 #            "lemon":15,
 #            "lime":20,
-            "nectarine":60,
+#            "nectarine":60,
             "orange":80,
             "peach":60,
             "pear":100,
