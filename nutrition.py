@@ -11,7 +11,7 @@ calorie_chart={
 #            "lime":20,
 #            "nectarine":60,
 #            "orange":80,
-            "peach":60,
+#            "peach":60,
             "pear":100,
             "pineapple":50,
             "plums":70,
