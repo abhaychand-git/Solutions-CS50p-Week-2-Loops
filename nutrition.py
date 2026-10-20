@@ -13,7 +13,7 @@ calorie_chart={
 #            "orange":80,
 #            "peach":60,
 #            "pear":100,
-            "pineapple":50,
+#            "pineapple":50,
             "plums":70,
             "strawberries":50,
             "sweet cherries":100,
