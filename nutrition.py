@@ -1,6 +1,6 @@
 calorie_chart={
 #            "apple":130,
-            "avocado":50,
+#            "avocado":50,
             "banana":110,
             "cantaloupe":50,
             "grapefruit":60,
