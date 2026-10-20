@@ -12,7 +12,7 @@ calorie_chart={
 #            "nectarine":60,
 #            "orange":80,
 #            "peach":60,
-            "pear":100,
+#            "pear":100,
             "pineapple":50,
             "plums":70,
             "strawberries":50,
