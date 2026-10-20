@@ -6,7 +6,7 @@ calorie_chart={
 #            "grapefruit":60,
 #            "grapes":90,
 #            "honeydew melon":50,
-            "kiwifruit":90,
+#            "kiwifruit":90,
             "lemon":15,
             "lime":20,
             "nectarine":60,
