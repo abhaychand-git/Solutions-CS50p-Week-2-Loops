@@ -5,9 +5,7 @@ In a file called nutrition.py, implement a program that prompts consumers users 
 """
 
 
-
-
-
+#The following program is the solutoin:
 
 calorie_chart={
             "apple":130,
