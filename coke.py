@@ -5,6 +5,7 @@ Once the user has inputted at least 50 cents, output how many cents in change th
 
 """
 
+#The following program is the solutoun:
 amount_due=50
 
 while amount_due < 0:
