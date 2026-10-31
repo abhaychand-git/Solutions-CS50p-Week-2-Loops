@@ -8,7 +8,7 @@ The Basic structure of this Repo is as follows:
        Week 2: Loops
                 |
                 |-----Camel Case
-                |
-                |
+                |----- Coke
+                |-----Nutrition
                 |
                 |
