@@ -6,9 +6,7 @@ The Basic structure of this Repo is as follows:
        |
        |
        Week 2: Loops
-                
-                *|
-                *|
+         
                 *|----- camelCase
                 *|----- Coke Machine
                 *|----- Just setting up my twttr
