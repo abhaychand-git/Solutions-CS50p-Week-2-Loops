@@ -6,7 +6,7 @@
 x= input("Input:")
 
 ommit= ["A","E","I","O","U","a","e","i","o","u"]
-
+#
 for i in x:
     if i in ommit:
        x= x.replace(i,"")
